@@ -1,2 +1,1 @@
-# DevOps
-Estudando DevOps
+# Studies
